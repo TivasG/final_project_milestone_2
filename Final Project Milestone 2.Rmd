@@ -1,0 +1,13 @@
+---
+title: "Final Project Milestone 2"
+author: "Tivas Gupta"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  The first project that I will look at "Aging Curves of Major League Baseball Hitters" by Diego Martinez from Spring of 2019. This project was extremely well done for multiple reasons. Some of the pros of this project include the incredible visualization of the player's age and their WAR for each year of their career. Learning how to visualize data in this way would greatly improve any student's final project. It was also interesting how the website allowed the user to explore the data in whatever way they wanted, with the ability for the user to track the career WAR of most position players in baseball history by year. Some of the minor cons of this project include the limited scope of analysis. Although Diego went very in-depth in looking at the player's relationship between salary and WAR, he ignored other interesting correlations, such as the best value players or ways these older players can impact their teams. However, this complaint is minor as Diego went very in-depth for his chosen scope. A very well-done project.
+    The second project I looked at was "Visualizing Crime in Chicago over the 10 year period from 2008-2018" by Taehwan Kim from Spring 2019. This project had two main pros: its very solid data foundation and data visualization. The student was able to locate a very reliable and thorough data set from the City of Chicago. This served as a very good foundation for the project. The student was also able to visualize this data well through the map on the fourth tab. This overlaid the crime data on a map of Chicago, and allowed the user to clearly see where crime was most heavily concentrated. However, this project also had a few cons. The data was not clearly presented on the other tabs, and the graphs/tables could be rather hard to read. Additionally, the conclusions drawn from the data isn't particularly interesting. The student looked at trends in crime, but didn't identify any other factors that could have a correrational or causal relationship with this crime, which could have been very interesting. Overall, a decent project.
